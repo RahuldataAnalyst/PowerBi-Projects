@@ -1,0 +1,1 @@
+Analyzing bank churn data in a Power BI project can provide valuable insights into customer retention, factors contributing to customer attrition, and opportunities to reduce churn. # PowerBi-Projects
